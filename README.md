@@ -7,4 +7,5 @@ All'interno di questo repository sono presenti file e configurazioni che via via
 Speciale ringraziamento a:
 - Marco Robustini
 - Alessio Fusi
+
 che con i loro consigli ed il loro supporto ci permettono di avere stampe di qualità.
