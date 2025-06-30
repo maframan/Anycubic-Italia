@@ -1,0 +1,141 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+*.env
+
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+log/
+tmp/
+vendor/bundle/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# C/C++
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.out
+
+# Go
+bin/
+*.exe
+
+# PHP
+/vendor/
+*.log
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+
+# Other editors
+*.kate-swp
+*.nvimlog
+
+# OS generated files
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Misc
+*.bak
+*.tmp
+*.old
+
+# Images cache
+Thumbs.db
+ehthumbs.db
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Test output
+test-output/
+junit-report.xml
+
+# By default, exclude anything that's a secret or credential
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+
+# Ignore database dumps
+*.sql
+*.sqlite
+*.db
+
+# Ignore dist output
+dist/
+build/
+out/
+
+# Ignore package managers
+.pnpm-store/
+
+# Ignore next.js build output
+.next/
+
+# Ignore Svelte build output
+.svelte-kit/
+
+# Ignore React Native
+.expo/
